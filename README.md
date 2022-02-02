@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor Front-End.
 - 🌱 Gosto de aprender coisas novas.
-- ⚡ Motivado por Desafios e experiencias.
+- ⚡ Motivado por Desafios e novas experiencias.
 - 📚 Faço como graduação: Ciências da Computação(Bacharelado) e Ciências de Dados(Tecnólogo).
 
 <div align="center">
