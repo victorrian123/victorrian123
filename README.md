@@ -1,4 +1,4 @@
-## Ola, Sou Victor Rian, Estudante e Apaixonado por Tecnologia!💻
+## Olá, Sou Victor Rian, Estudante e Apaixonado por Tecnologia!💻
 
 - 🔭 Atualmente trabalho como desenvolvedor Front-End.
 - 🌱 Gosto de aprender coisas novas.
