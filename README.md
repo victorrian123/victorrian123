@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como desenvolvedor Front-End.
 - 🌱 Gosto de aprender coisas novas.
 - ⚡ Motivado por Desafios e novas experiencias.
-- 📚 Possuo formação em Ciência de Dados na modalidade de Tecnologia, adicionalmente encontro-me em fase de conclusão do Bacharelado em Ciência da Computação.
+- 📚 Possuo formação em Ciência de Dados e Ciência da Computação.
 
 
   <div style="display: inline_block"><br>
